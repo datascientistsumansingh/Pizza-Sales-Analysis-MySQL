@@ -3,8 +3,7 @@ SQL queries used to analyze pizza sales data.
 # Problem Statement
 
 ## A. KPI's Requirement
-
-### We need to analyze key indicators for our piuzza sales data to gain insights into our buisness performance. Specifically, we wanto to calculate the following metrics
+-**We need to analyze key indicators for our piuzza sales data to gain insights into our buisness performance. Specifically, we wanto to calculate the following metrics**
 
 #### 1. Total Revenue
 The sum of the total price of all pizzas orders.
